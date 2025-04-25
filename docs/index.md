@@ -182,10 +182,13 @@ The room (Café 17) will be open during the following times:
 <th>Tuesday, April 29</th>
 </tr>
 <tr>
-<td>
-| 5:15 PM | Attendee check-in <br/> Welcome presentation </br> Start hacking! |
-| 7:00 PM | Doors close for the night |
-</td>
+<td> 5:15 </td>
+ <td> PM Attendee check-in <br/> Welcome presentation </br> Start hacking! </td>
+</tr>
+ <tr>
+  <td> 7:00 PM </td>
+  <td> Doors close for the night </td>
+ </tr>
 </tr>
 </table>
 <table>
@@ -193,13 +196,24 @@ The room (Café 17) will be open during the following times:
 <th>Wednesday, April 30</th>
 </tr>
 <tr>
-<td>
-| 9:00 AM | Room opens for hackers, mentors available to answer questions |
-| 11:45 PM- 1:00 PM |  *Lunch Break (can continue hacking in room)* |
-| 3:00 PM | Room closing soon! Final reminder on submission deadline + link |
-| 3:30 PM | Room Closed - General Session Starts NOW |
-| 5:00 PM | Submissions Due via submission link – hackathon finished |
-</td>
+<td> 9:00 AM </td>
+ <td> Room opens for hackers, mentors available to answer questions </td>
 </tr>
+ <tr>
+  <td> 11:45 PM- 1:00 PM </td>
+  <td> *Lunch Break (can continue hacking in room)* </td>
+ </tr>
+ <tr>
+  <td> 3:00 PM </td>
+  <td> Room closing soon! Final reminder on submission deadline + link </td>
+ </tr>
+ <tr>
+  <td> 3:30 PM </td>
+  <td> Room Closed - General Session Starts NOW </td>
+ </tr>
+ <tr>
+  <td> 5:00 PM </td>
+  <td>Submissions Due via submission link – hackathon finished </td>
+ </tr>
 </table>
 
