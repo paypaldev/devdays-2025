@@ -177,19 +177,19 @@ The hackathon is open for about 24 hours, starting on Tuesday April 29th at 5:51
 The room is a resource to you, come hack, ask questions from PayPal engineers, etc. You are not required to stay in the room during the entirely of the hackathon. 
 
 The room (Café 17) will be open during the following times: 
+
 <table>
 <tr>
 <th colspan="2">Tuesday, April 29</th>
 </tr>
 <tr>
 <td> 5:15 </td>
- <td> PM Attendee check-in <br/> Welcome presentation </br> Start hacking! </td>
+ <td> PM Attendee check-in <br/> Welcome presentation <br/> Start hacking! </td>
 </tr>
  <tr>
   <td> 7:00 PM </td>
   <td> Doors close for the night </td>
  </tr>
-</tr>
 <tr>
 <th colspan="2">Wednesday, April 30</th>
 </tr>
@@ -199,7 +199,7 @@ The room (Café 17) will be open during the following times:
 </tr>
  <tr>
   <td> 11:45 PM- 1:00 PM </td>
-  <td> </i>Lunch Break (can continue hacking in room)</i> </td>
+  <td> Lunch Break (can continue hacking in room) </td>
  </tr>
  <tr>
   <td> 3:00 PM </td>
