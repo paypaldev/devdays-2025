@@ -26,6 +26,6 @@ Quick links:
 * [Blog: PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce](https://developer.paypal.com/community/blog/paypal-model-context-protocol/)
 * [More on Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction?wt.mc_id=studentamb_263805)
 * Agentic Toolkit:
-  * [Blog: PayPal Releases Agentic Toolkit]([https://blog](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
+  * [Blog: PayPal Releases Agentic Toolkit](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
   * [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit/) 
 * [PayPal APIs Public Postman Collection](https://www.postman.com/paypal)
