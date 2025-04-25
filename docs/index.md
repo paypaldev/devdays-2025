@@ -35,6 +35,8 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 * [Claude](https://claude.ai/login?returnTo=%2F%3F#features)
 * [There really are so many… ](https://modelcontextprotocol.io/clients)
 
+**Note:** Please see the specific setup instructions for this challenge [below](#sandbox-setup-for-challenge-1-agentic-integration)
+
 ### Challenge 2: Vibe Coding with Replit  
 We’ve partnered with Replit, a Conversational AI and browser-based IDE that simplifies building, testing, and deploying applications. For this challenge, build an application on Replit using PayPal integrations. Get creative, take advantage of [Pay your own way](https://www.youtube.com/watch?app=desktop&v=oZNeLfLEkCs) options when you’re building out your app.
 
