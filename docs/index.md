@@ -15,12 +15,12 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 * Refund and dispute management
 * Subscription management
 
-There are two ways of connecting to PayPal’s MCP server: 
+**There are two ways of connecting to PayPal’s MCP server:** 
  
 * Local PayPal MCP Server Using the Agentic Toolkit: This option enables developers to download, install, and run the PayPal MCP server locally on their own machines. It supports a wide range of MCP clients, including Claude Desktop and Cursor AI. 
 * Remote PayPal MCP Server: This option opens the door to a broader audience—particularly users who prefer not to install local MCP servers. With remote PayPal MCP support, users have an endpoint that any MCP client can connect to seamlessly, allowing continuity of work across clients with a simple PayPal login.
 
-Quick links:  
+**Quick links: ** 
 
 * [PayPal MCP Server](https://developer.paypal.com/tools/mcp-server/): how to set up, run locally, connect remotely
 * [Blog: PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce](https://developer.paypal.com/community/blog/paypal-model-context-protocol/)
@@ -29,3 +29,23 @@ Quick links:
   * [Blog: PayPal Releases Agentic Toolkit](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
   * [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit/) 
 * [PayPal APIs Public Postman Collection](https://www.postman.com/paypal)
+
+**Recommended platforms (but use what you want):**  
+* [Cursor](https://www.cursor.com/en)
+* [Claude](https://claude.ai/login?returnTo=%2F%3F#features)
+* [There really are so many… ](https://modelcontextprotocol.io/clients)
+
+### Challenge 2: Vibe Coding with Replit  
+We’ve partnered with Replit, a Conversational AI and browser-based IDE that simplifies building, testing, and deploying applications. For this challenge, build an application on Replit using PayPal integrations. Get creative, take advantage of [Pay your own way](https://www.youtube.com/watch?app=desktop&v=oZNeLfLEkCs) options when you’re building out your app.
+
+For this challenge, you’ll need a Replit account. Sign up here for a free account: https://replit.com/signup (note that the free account limits you to 20 checkpoints) 
+
+To get a quick sense of how Replit works, check out these resources:  
+
+* **Getting Started:** [Quickstart tutorial](https://docs.replit.com/getting-started/quickstarts/no-code-cat-image-generator)  
+* **Video Overviews:**
+    * [Introduction to Replit](https://www.youtube.com/watch?v=ji8C1LxWyXU)
+    * [More Features](https://www.youtube.com/watch?v=JNH2g53T3zE)  
+* **Technical Deep Dive (for developers):** [Tech Talk](https://www.youtube.com/watch?v=dtuwxIJrnS0)  
+* New Replit Agent v2: [Clone Reddit in two prompts](https://www.youtube.com/watch?v=fAYO58NqMog) *(only available with Core membership)* 
+
