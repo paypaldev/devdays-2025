@@ -137,4 +137,58 @@ Go to the developer dashboard: [developer.paypal.com/dashboard](https://develope
    --data-urlencode 'ignoreCache=true' \
    --data-urlencode 'response_type=token' 
    ```
-   Questions, didn’t get an email? Come find a staff member onsite in the room.  
+   Questions, didn’t get an email? Come find a staff member onsite in the room.
+
+   ## How judging will work
+   You must submit your project by Wednesday April 30th at 5PM PT to be eligible for judging.
+
+   Quickly after the deadline, a team of PayPal engineers and executives will review the submissions and select the finalists who will be invited to present live on Thursday morning during the general session. Up to ten teams will be invited to demo live on-site. You will be notified via email within a few hours if you’ve made it to the finalist round or not.
+   
+After the finalist teams demo their projects, a panel of PayPal executives will judge and select the First, Second, and Third place winning teams.  
+
+**NOTE:**  When you submit your project via the Microsoft form, you’ll be asked to acknowledge that you will be available to demo live in person on Thursday and that you’re able to participate if selected as a finalist.  
+
+## Judging Criteria 
+
+Below are the categories to which your project will be evaluated. Think about the following questions when working through your idea.  
+
+**Business Relevance ** 
+* Does the solution address a specific, real-world business challenge or opportunity?
+* Presentation: How clearly is the project communicated? Was the demo effective?   
+
+**Innovation/ Creativity / Potential Impact**
+* Is the solution unique or does it introduce a novel approach to an existing problem?
+* How effectively does the project deliver measurable value (e.g. increased efficiency, cost savings, revenue growth)?  
+
+**Technical Implementation**
+* End-to-End Functionality: Does the submission present a fully working demo or proof of concept from start to finish (e.g., user flow, payment flow, confirmation)?
+* How effectively is PayPal integrated into the project’s workflow?    
+
+**Technical Quality**   
+* Does the solution demonstrate quality software development?
+* Production Readiness: If expanded, could the project go live with minimal additional effort?
+* Use of Features: Does the solution go beyond basic payment acceptance to utilize PayPal’s other capabilities where applicable?
+* How effectively is PayPal integrated into the project’s workflow?
+
+## Agenda
+The hackathon is open for about 24 hours, starting on Tuesday April 29th at 5:515PM PT (when the welcome presentation starts) and goes until Wednesday April 30th at 5PM PT when your project is due.  
+
+The room is a resource to you, come hack, ask questions from PayPal engineers, etc. You are not required to stay in the room during the entirely of the hackathon. 
+
+The room (Café 17) will be open during the following times: 
+**Tuesday, April 29**
+| :- | :- |
+| 5:15 PM | Attendee check-in 
+Welcome presentation 
+Start hacking! |
+| 7:00 PM | Doors close for the night |
+
+**Wednesday, April 30**
+| :- | :- |
+| 9:00 AM | Room opens for hackers, mentors available to answer questions |
+| 11:45 PM- 1:00 PM |  *Lunch Break (can continue hacking in room)* |
+| 3:00 PM | Room closing soon! Final reminder on submission deadline + link |
+| 3:30 PM | Room Closed - General Session Starts NOW |
+| 5:00 PM | Submissions Due via submission link – hackathon finished |
+
+
