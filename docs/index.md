@@ -153,7 +153,7 @@ Go to the developer dashboard: [developer.paypal.com/dashboard](https://develope
 
 Below are the categories to which your project will be evaluated. Think about the following questions when working through your idea.  
 
-**Business Relevance ** 
+**Business Relevance** 
 * Does the solution address a specific, real-world business challenge or opportunity?
 * Presentation: How clearly is the project communicated? Was the demo effective?   
 
@@ -177,11 +177,16 @@ The hackathon is open for about 24 hours, starting on Tuesday April 29th at 5:51
 The room is a resource to you, come hack, ask questions from PayPal engineers, etc. You are not required to stay in the room during the entirely of the hackathon. 
 
 The room (Café 17) will be open during the following times: 
-**Tuesday, April 29**
-| 5:15 PM | Attendee check-in 
-Welcome presentation 
-Start hacking! |
+<table>
+<tr>
+<th>Tuesday, April 29</th>
+</tr>
+<tr>
+<td>
+| 5:15 PM | Attendee check-in <br/> Welcome presentation </br> Start hacking! |
 | 7:00 PM | Doors close for the night |
+</td>
+</table>
 
 **Wednesday, April 30**
 | 9:00 AM | Room opens for hackers, mentors available to answer questions |
