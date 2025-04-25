@@ -201,7 +201,7 @@ The room (Café 17) will be open during the following times:
 </tr>
  <tr>
   <td> 11:45 PM- 1:00 PM </td>
-  <td> *Lunch Break (can continue hacking in room)* </td>
+  <td> </i>Lunch Break (can continue hacking in room)</i> </td>
  </tr>
  <tr>
   <td> 3:00 PM </td>
