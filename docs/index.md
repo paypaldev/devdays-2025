@@ -1,3 +1,7 @@
+<head>
+  <title>PayPal Developer Days 2025 Hackathon Resources</title>
+ <link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
 # PayPal Developer Days 2025 Hackathon Resources
 We’re excited to have you join in on the hackathon. Use this page for anything and everything you’ll need to participate and submit your project.  
  

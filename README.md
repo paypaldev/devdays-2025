@@ -1,1 +1,1 @@
-Repo for holding Dev Days Hackathon docs
+PayPal Developer Days 2025 Hackathon Resources
