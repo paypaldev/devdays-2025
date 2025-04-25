@@ -22,10 +22,10 @@ There are two ways of connecting to PayPal’s MCP server:
 
 Quick links:  
 
-* PayPal MCP Server: how to set up, run locally, connect remotely
-* Blog: PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce
-* More on Model Context Protocol (MCP)
+* [PayPal MCP Server](https://developer.paypal.com/tools/mcp-server/): how to set up, run locally, connect remotely
+* [Blog: PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce](https://developer.paypal.com/community/blog/paypal-model-context-protocol/)
+* [More on Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction?wt.mc_id=studentamb_263805)
 * Agentic Toolkit:
-  ** Blog: PayPal Releases Agentic Toolkit
-  * * paypal/agent-toolkit 
-* PayPal APIs 
+  * [Blog: PayPal Releases Agentic Toolkit]([https://blog](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
+  * [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit/) 
+* [PayPal APIs Public Postman Collection](https://www.postman.com/paypal)
