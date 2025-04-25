@@ -80,3 +80,61 @@ What to submit: Click the form link to see what information you’ll be required
 
 Please check the **Official Rules** (<-- Need link) for full details. 
 
+# Resources
+## Sandbox Overview & Setup 
+To start working with the PayPal APIs, you’ll need to have a PayPal account to log in to the Developer Dashboard.  
+
+### Account Setup 
+
+If you don’t already have a PayPal account, start at Step 1. Otherwise, you can skip to Step 2. 
+
+**Step 1:** 
+
+Go to [developer.paypal.com](https://developer.paypal.com/), click the Sign Up button in the upper right corner and follow the prompts to create a **Personal** account & complete all the verification steps.  
+
+**Step 2:**
+
+Log in to the Developer Dashboard at [developer.paypal.com](https://developer.paypal.com/). 
+
+By default, you will automatically have one default buyer account (personal) and one default seller (business) account, which you can see by going to Testing Tools > Sandbox Accounts.  From here, you can click on the buyer account to obtain the login & password required for completing payments. 
+
+If you’d like additional buyer accounts with ample pre-loaded funding, come see us at the table. We have easy to use, pre-configured accounts available for you.  
+
+## Sandbox Setup for Challenge 1: Agentic integration  
+
+For this challenge, we’ll need to add a new scope to your client ID for a new feature not yet available directly from the developer dashboard. 
+
+**Steps to find your client ID and send it to us: ** 
+
+Go to the developer dashboard: [developer.paypal.com/dashboard](https://developer.paypal.com/dashboard/) 
+
+1. Click on Apps and Credentials from the top menu
+2. Copy your Client ID to the clipboard
+3. Send an email by clicking this link: [Email requesting scope update](mailto:devdays-hackathon-2025@paypal.com?subject=Please%20update%20my%20client%20ID&body=Hi%20PayPal,%0A%0APlease%20add%20the%20new%20scope%20to%20my%20client%20ID.%0A%0AName:%20[ENTER%20YOUR%20NAME%20HERE]%0A%0AMy%20Client%20ID:%20[PASTE%20YOUR%20CLIENT%20ID%20HERE]%0A%0AThanks!)
+   If the link above doesn’t work, paste this into your email client:
+   ```
+   To: devdays-hackathon-2025@paypal.com
+   Subject: Please update my client ID
+   Body:
+   Hi PayPal,
+
+   Please add the new scope to my client ID.
+
+   Name: **ADD YOUR NAME HERE**
+   My Client ID: **PASTE YOUR CLIENT ID HERE**
+
+   Thanks! 
+   ```
+4. Wait for your email reply confirming the scope was added.
+5. Generate a new access token with the following cURL command:
+   ```
+   curl --location 'https://api.sandbox.paypal.com/v1/oauth2/token'
+   --header 'Content-Type: application/x-www-form-urlencoded' \
+   --header 'Accept: application/json' \
+   --header 'Accept-Language: en_US' \
+   --user 'CLIENT_ID:CLIENT_SECRET'\
+   --data-urlencode 'grant_type=client_credentials' \
+   --data-urlencode 'ignoreCache=true' \
+   --data-urlencode 'response_type=token' 
+   ```
+   Questions, didn’t get an email? Come find a staff member onsite in the room.  
