@@ -186,13 +186,20 @@ The room (Café 17) will be open during the following times:
 | 5:15 PM | Attendee check-in <br/> Welcome presentation </br> Start hacking! |
 | 7:00 PM | Doors close for the night |
 </td>
+</tr>
 </table>
-
-**Wednesday, April 30**
+<table>
+<tr>
+<th>Wednesday, April 30</th>
+</tr>
+<tr>
+<td>
 | 9:00 AM | Room opens for hackers, mentors available to answer questions |
 | 11:45 PM- 1:00 PM |  *Lunch Break (can continue hacking in room)* |
 | 3:00 PM | Room closing soon! Final reminder on submission deadline + link |
 | 3:30 PM | Room Closed - General Session Starts NOW |
 | 5:00 PM | Submissions Due via submission link – hackathon finished |
-
+</td>
+</tr>
+</table>
 
