@@ -9,7 +9,7 @@ Below are three challenges you can choose from. Review each of them for instruct
 
 ### Challenge 1: Agentic Integrations 
 
-Develop an agent that addresses a common business challenge that leverage MCP Server, Agentic Toolkit or PayPal APIs A few ideas to get you started are:  
+Develop an agent that addresses a common business challenge that leverage MCP Server, Agent Toolkit or PayPal APIs A few ideas to get you started are:  
 * Complete a checkout process using PayPal agentic processes
 * Post purchase agentic flows
 * Refund and dispute management
@@ -17,7 +17,7 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 
 **There are two ways of connecting to PayPal’s MCP server:** 
  
-* Local PayPal MCP Server Using the Agentic Toolkit: This option enables developers to download, install, and run the PayPal MCP server locally on their own machines. It supports a wide range of MCP clients, including Claude Desktop and Cursor AI. 
+* Local PayPal MCP Server Using the Agent Toolkit: This option enables developers to download, install, and run the PayPal MCP server locally on their own machines. It supports a wide range of MCP clients, including Claude Desktop and Cursor AI. 
 * Remote PayPal MCP Server: This option opens the door to a broader audience—particularly users who prefer not to install local MCP servers. With remote PayPal MCP support, users have an endpoint that any MCP client can connect to seamlessly, allowing continuity of work across clients with a simple PayPal login.
 
 **Quick links:** 
@@ -25,8 +25,8 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 * [PayPal MCP Server](https://developer.paypal.com/tools/mcp-server/): how to set up, run locally, connect remotely
 * [Blog: PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce](https://developer.paypal.com/community/blog/paypal-model-context-protocol/)
 * [More on Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction?wt.mc_id=studentamb_263805)
-* Agentic Toolkit:
-  * [Blog: PayPal Releases Agentic Toolkit](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
+* Agent Toolkit:
+  * [Blog: PayPal Releases Agent Toolkit](https://developer.paypal.com/community/blog/paypal-agentic-ai-toolkit)
   * [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit/) 
 * [PayPal APIs Public Postman Collection](https://www.postman.com/paypal)
 
@@ -65,7 +65,7 @@ Bring your existing use case and work with the PayPal team to upgrade using our 
 
 You’ll submit your project via a Microsoft form. **Deadline is Wednesday April 30th, 5PM PT.**
 
-Link to the submission form: [need link](https://developer.paypal.com)
+Link to the submission form: [https://developer.paypal.com](https://forms.office.com/r/hJJrg2X1xJ)
 
 What to submit: Click the form link to see what information you’ll be required to submit.  
 
