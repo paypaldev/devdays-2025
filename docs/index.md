@@ -65,7 +65,7 @@ Bring your existing use case and work with the PayPal team to upgrade using our 
 
 You’ll submit your project via a Microsoft form. **Deadline is Wednesday April 30th, 5PM PT.**
 
-Link to the submission form: [https://developer.paypal.com](https://forms.office.com/r/hJJrg2X1xJ)
+Link to the submission form: [DevDay 2025 hackathon Submission Form](https://forms.office.com/r/hJJrg2X1xJ)
 
 What to submit: Click the form link to see what information you’ll be required to submit.  
 
