@@ -104,13 +104,14 @@ If you’d like additional buyer accounts with ample pre-loaded funding, come se
 
 For this challenge, we’ll need to add a new scope to your client ID for a new feature not yet available directly from the developer dashboard. 
 
-**Steps to find your client ID and send it to us: ** 
+**Steps to find your client ID and send it to us:** 
 
 Go to the developer dashboard: [developer.paypal.com/dashboard](https://developer.paypal.com/dashboard/) 
 
 1. Click on Apps and Credentials from the top menu
 2. Copy your Client ID to the clipboard
 3. Send an email by clicking this link: [Email requesting scope update](mailto:devdays-hackathon-2025@paypal.com?subject=Please%20update%20my%20client%20ID&body=Hi%20PayPal,%0A%0APlease%20add%20the%20new%20scope%20to%20my%20client%20ID.%0A%0AName:%20[ENTER%20YOUR%20NAME%20HERE]%0A%0AMy%20Client%20ID:%20[PASTE%20YOUR%20CLIENT%20ID%20HERE]%0A%0AThanks!)
+
    If the link above doesn’t work, paste this into your email client:
    ```
    To: devdays-hackathon-2025@paypal.com
@@ -120,13 +121,13 @@ Go to the developer dashboard: [developer.paypal.com/dashboard](https://develope
 
    Please add the new scope to my client ID.
 
-   Name: **ADD YOUR NAME HERE**
-   My Client ID: **PASTE YOUR CLIENT ID HERE**
+   Name: ADD YOUR NAME HERE
+   My Client ID: PASTE YOUR CLIENT ID HERE
 
    Thanks! 
    ```
-4. Wait for your email reply confirming the scope was added.
-5. Generate a new access token with the following cURL command:
+5. Wait for your email reply confirming the scope was added.
+6. Generate a new access token with the following cURL command:
    ```
    curl --location 'https://api.sandbox.paypal.com/v1/oauth2/token'
    --header 'Content-Type: application/x-www-form-urlencoded' \
@@ -143,16 +144,16 @@ Go to the developer dashboard: [developer.paypal.com/dashboard](https://develope
    You must submit your project by Wednesday April 30th at 5PM PT to be eligible for judging.
 
    Quickly after the deadline, a team of PayPal engineers and executives will review the submissions and select the finalists who will be invited to present live on Thursday morning during the general session. Up to ten teams will be invited to demo live on-site. You will be notified via email within a few hours if you’ve made it to the finalist round or not.
-   
-After the finalist teams demo their projects, a panel of PayPal executives will judge and select the First, Second, and Third place winning teams.  
 
-**NOTE:**  When you submit your project via the Microsoft form, you’ll be asked to acknowledge that you will be available to demo live in person on Thursday and that you’re able to participate if selected as a finalist.  
+   After the finalist teams demo their projects, a panel of PayPal executives will judge and select the First, Second, and Third place winning teams.
+
+   **NOTE:**  When you submit your project via the Microsoft form, you’ll be asked to acknowledge that you will be available to demo live in person on Thursday and that you’re able to participate if selected as a finalist.  
 
 ## Judging Criteria 
 
 Below are the categories to which your project will be evaluated. Think about the following questions when working through your idea.  
 
-**Business Relevance ** 
+**Business Relevance** 
 * Does the solution address a specific, real-world business challenge or opportunity?
 * Presentation: How clearly is the project communicated? Was the demo effective?   
 
@@ -176,19 +177,41 @@ The hackathon is open for about 24 hours, starting on Tuesday April 29th at 5:51
 The room is a resource to you, come hack, ask questions from PayPal engineers, etc. You are not required to stay in the room during the entirely of the hackathon. 
 
 The room (Café 17) will be open during the following times: 
-**Tuesday, April 29**
-| :- | :- |
-| 5:15 PM | Attendee check-in 
-Welcome presentation 
-Start hacking! |
-| 7:00 PM | Doors close for the night |
-
-**Wednesday, April 30**
-| :- | :- |
-| 9:00 AM | Room opens for hackers, mentors available to answer questions |
-| 11:45 PM- 1:00 PM |  *Lunch Break (can continue hacking in room)* |
-| 3:00 PM | Room closing soon! Final reminder on submission deadline + link |
-| 3:30 PM | Room Closed - General Session Starts NOW |
-| 5:00 PM | Submissions Due via submission link – hackathon finished |
-
+<table>
+<tr>
+<th colspan="2">Tuesday, April 29</th>
+</tr>
+<tr>
+<td> 5:15 </td>
+ <td> PM Attendee check-in <br/> Welcome presentation </br> Start hacking! </td>
+</tr>
+ <tr>
+  <td> 7:00 PM </td>
+  <td> Doors close for the night </td>
+ </tr>
+</tr>
+<tr>
+<th colspan="2">Wednesday, April 30</th>
+</tr>
+<tr>
+<td> 9:00 AM </td>
+ <td> Room opens for hackers, mentors available to answer questions </td>
+</tr>
+ <tr>
+  <td> 11:45 PM- 1:00 PM </td>
+  <td> </i>Lunch Break (can continue hacking in room)</i> </td>
+ </tr>
+ <tr>
+  <td> 3:00 PM </td>
+  <td> Room closing soon! Final reminder on submission deadline + link </td>
+ </tr>
+ <tr>
+  <td> 3:30 PM </td>
+  <td> Room Closed - General Session Starts NOW </td>
+ </tr>
+ <tr>
+  <td> 5:00 PM </td>
+  <td>Submissions Due via submission link – hackathon finished </td>
+ </tr>
+</table>
 
