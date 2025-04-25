@@ -57,5 +57,26 @@ Bring your existing use case and work with the PayPal team to upgrade using our 
 * [PayPal Server SDKs](https://developer.paypal.com/serversdk/net-standard-library/getting-started/how-to-get-started)
 * [Best Practices for PayPal Checkout](https://developer.paypal.com/docs/checkout/standard/best-practices/)
 * [Pay Now vs Continue Flow](https://developer.paypal.com/docs/checkout/standard/customize/pay-now/)
-* [Shipping Module](https://developer.paypal.com/docs/checkout/standard/customize/shipping-module/) 
+* [Shipping Module](https://developer.paypal.com/docs/checkout/standard/customize/shipping-module/)
+
+## What to Submit
+
+You’ll submit your project via a Microsoft form. **Deadline is Wednesday April 30th, 5PM PT.**
+
+Link to the submission form: [need link](https://developer.paypal.com)
+
+What to submit: Click the form link to see what information you’ll be required to submit.  
+
+* General team info: You’ll need to submit everyone on your teams information, your team name, contact information etc.
+* A link to your project code (make sure it’s public/ visible in GitHub)
+* A video (about 5 minutes) that demonstrates your submission.
+   * Videos must be viewable for the judges, suggested to upload to YouTube, Vimeo, or Facebook Video.
+   * Another idea is to do a virtual meeting and make a recording, teams or google depending on what is easy for you. **NOTE:** please test the URL to make sure the link you send in your submission is viewable for the judges.
+   * Please use audio to talk through your demo and answer the following questions and include the following details:
+      * Team name
+      * Challenge you chose
+      * 1-2 sentence pitch, tell us about your project
+      * What was used & what else would you do if you had more time? 
+
+Please check the **Official Rules** (<-- Need link) for full details. 
 
