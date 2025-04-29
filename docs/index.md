@@ -30,6 +30,30 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
   * [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit/) 
 * [PayPal APIs Public Postman Collection](https://www.postman.com/paypal)
 
+**PaymentlinkServ is a limited release and will work with local MCP server only.**
+In order to use paymentlinkserv to generate a PaymentLink as part of the hackathon do the following:
+* Clone repo  https://github.com/paypal/agent-toolkit
+* Switch to branch https://github.com/paypal/agent-toolkit/tree/feature/payment-links
+* Update config in ~/Claude/claude_desktop_config.json with the below config.
+```
+{
+  "mcpServers": {
+   "paypal": {
+    "command": "npx",
+    "args": [
+     "-y",
+     “/<path>/agent-toolkit/modelcontextprotocol/dist/index.js",
+     "--tools=all"
+    ],
+    "env": {
+     "PAYPAL_ACCESS_TOKEN”:”<token>,
+     "PAYPAL_ENVIRONMENT": "SANDBOX"
+    }
+   }
+  }
+} (
+```
+
 **Recommended platforms (but use what you want):**  
 * [Cursor](https://www.cursor.com/en)
 * [Claude](https://claude.ai/login?returnTo=%2F%3F#features)
@@ -40,7 +64,7 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 ### Challenge 2: Vibe Coding with Replit  
 We’ve partnered with Replit, a Conversational AI and browser-based IDE that simplifies building, testing, and deploying applications. For this challenge, build an application on Replit using PayPal integrations. Get creative, take advantage of [Pay your own way](https://www.youtube.com/watch?app=desktop&v=oZNeLfLEkCs) options when you’re building out your app.
 
-For this challenge, you’ll need a Replit account. Sign up here for a free account: https://replit.com/signup (note that the free account limits you to 20 checkpoints) 
+For this challenge, you’ll need a Replit account. Sign up here for a free account: [https://replit.com/signup](https://replit.com/signup) (note that the free account limits you to 20 checkpoints) 
 
 To get a quick sense of how Replit works, check out these resources:  
 
