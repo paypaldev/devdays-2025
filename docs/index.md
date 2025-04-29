@@ -40,7 +40,7 @@ Develop an agent that addresses a common business challenge that leverage MCP Se
 ### Challenge 2: Vibe Coding with Replit  
 We’ve partnered with Replit, a Conversational AI and browser-based IDE that simplifies building, testing, and deploying applications. For this challenge, build an application on Replit using PayPal integrations. Get creative, take advantage of [Pay your own way](https://www.youtube.com/watch?app=desktop&v=oZNeLfLEkCs) options when you’re building out your app.
 
-For this challenge, you’ll need a Replit account. Sign up here for a free account: https://replit.com/signup (note that the free account limits you to 20 checkpoints) 
+For this challenge, you’ll need a Replit account. Sign up here for a free account: [https://replit.com/signup](https://replit.com/signup) (note that the free account limits you to 20 checkpoints) 
 
 To get a quick sense of how Replit works, check out these resources:  
 
