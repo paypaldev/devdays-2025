@@ -80,7 +80,7 @@ What to submit: Click the form link to see what information you’ll be required
       * 1-2 sentence pitch, tell us about your project
       * What was used & what else would you do if you had more time? 
 
-Please check the **Official Rules** (<-- Need link) for full details. 
+Please check the **[Official Rules](./Developer_Day_Hackathon_ 2025_Official_Rules_v4_04_27_25.pdf)** for full details. 
 
 # Resources
 ## Sandbox Overview & Setup 
