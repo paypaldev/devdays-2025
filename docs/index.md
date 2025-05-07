@@ -128,6 +128,8 @@ If you’d like additional buyer accounts with ample pre-loaded funding, come se
 
 ## Sandbox Setup for Challenge 1: Agentic integration  
 
+$\color{Red}{May\ 7,\ 2025\ Update:\ Now\ that\ the\ hackathon\ has\ ended,\ we're\ no\ longer\ provisioning\ accounts\ with\ this\ scope.\ It\ will\ be\ released\ in\ the\ near\ future\ and\ will\ be\ available\ to\ all\ developers\ through\ the\ PayPal\ Developer\ Dashboard.}$
+
 For this challenge, we’ll need to add a new scope to your client ID for a new feature not yet available directly from the developer dashboard. 
 
 **Steps to find your client ID and send it to us:** 
@@ -136,11 +138,10 @@ Go to the developer dashboard: [developer.paypal.com/dashboard](https://develope
 
 1. Click on Apps and Credentials from the top menu
 2. Copy your Client ID to the clipboard
-3. Send an email by clicking this link: [Email requesting scope update](mailto:devdays-hackathon-2025@paypal.com?subject=Please%20update%20my%20client%20ID&body=Hi%20PayPal,%0A%0APlease%20add%20the%20new%20scope%20to%20my%20client%20ID.%0A%0AName:%20[ENTER%20YOUR%20NAME%20HERE]%0A%0AMy%20Client%20ID:%20[PASTE%20YOUR%20CLIENT%20ID%20HERE]%0A%0AThanks!)
+3. Send an email:
 
-   If the link above doesn’t work, paste this into your email client:
    ```
-   To: devdays-hackathon-2025@paypal.com
+   To: **REDACTED AFTER THE HACKATHON ENDED**
    Subject: Please update my client ID
    Body:
    Hi PayPal,
