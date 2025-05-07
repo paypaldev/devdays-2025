@@ -128,7 +128,7 @@ If you’d like additional buyer accounts with ample pre-loaded funding, come se
 
 ## Sandbox Setup for Challenge 1: Agentic integration  
 
-$\color{Red}{May\ 7,\ 2025\ Update:\ Now\ that\ the\ hackathon\ has\ ended,\ we're\ no\ longer\ provisioning\ accounts\ with\ this\ scope.\ It\ will\ be\ released\ in\ the\ near\ future\ and\ will\ be\ available\ to\ all\ developers\ through\ the\ PayPal\ Developer\ Dashboard.}$
+### May 7, 2025 Update: Now that the hackathon has ended, we're no longer provisioning accounts with this scope. It will be released in the near future and will be available to all developers through the PayPal Developer Dashboard.
 
 For this challenge, we’ll need to add a new scope to your client ID for a new feature not yet available directly from the developer dashboard. 
 
